@@ -1,0 +1,10 @@
+Sorted Students (Name, Average):
+Hope, 95.67
+Charlie, 92.33
+Hayleigh, 89.67
+Bryan, 89.67
+Madi, 87.67
+Bob, 87.33
+Alice, 87.00
+Sam, 87.00
+Kylie, 85.33
